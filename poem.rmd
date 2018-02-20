@@ -17,7 +17,12 @@ you, if you change any of this the git program will notice it and compromise you
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
 ## Second Verse
-<!--Put the first five lines of a poem by Robert Frost here!-->
+<!--Put the first five lines of a poem by Robert Frost here!-->The surest thing there is is we are riders,  
+And though none too successful at it, guiders,  
+Through everything presented, land and tide  
+And now the very air, of what we ride.  
+
+What is this talked-of mystery of birth
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
